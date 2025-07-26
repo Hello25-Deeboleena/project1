@@ -1,0 +1,90 @@
+body{
+  padding: 0px;
+}
+.board{
+  display: flex;
+  flex-direction: column;
+}
+/* .row1 .First{
+  height :100px;
+  width: 100px;
+  float: left;
+  background-color: rgb(192, 233, 248);
+}
+.row1 .Second{
+  height :100px;
+  width: 100px;
+  float: left;
+  background-color:rgb(106, 210, 248);
+}
+.row2 .First{
+  height :100px;
+  width: 100px;
+  float: left;
+  background-color: rgb(106, 210, 248);
+}
+.row2 .Second{
+  height :100px;
+  width: 100px;
+  float: left;
+  background-color:rgb(192, 233, 248);
+}
+ */
+
+.One{
+  height: 100px;
+  width: 100%;
+  float: left;
+  background-color: aqua;
+}
+
+.Two .ini{
+  height: 100px;
+  width: 50%;
+  float:left;
+  background-color: blue;
+} 
+
+.Two .mini{
+  height: 100px;
+  width: 50%;
+  float: left;
+  background-color: blueviolet;
+}
+
+.Three .ene{
+  height: 100px;
+  width: 20%;
+  float: left;
+  background-color: brown;
+}
+.Three .gene{
+  height: 100px;
+  width: 30%;
+  float: left;
+  background-color: rgb(224, 25, 115);
+}
+.Three .ele{
+  height: 100px;
+  width: 40%;
+  float: left;
+  background-color: rgb(98, 155, 205);
+}
+.Three .hele{
+  height: 100px;
+  width: 10%;
+  float: left;
+  background-color: rgb(158, 80, 182);
+}
+.Four{
+  height: 100px;
+  width: 100%;
+  float: left;
+  background-color: rgb(196, 221, 96);
+}
+.Five{
+  height: 100px;
+  width: 100%;
+  float: left;
+  background-color: rgb(134, 179, 114);
+}
